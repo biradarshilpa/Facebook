@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a11bb94-129a-45eb-ba6e-4e6c1c38a3e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1v0iVLrsrl65m72S1kZXwRPkrhV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Shilpa/testng-6.14.3.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.A">
+    <configuration name="A" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.framework.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.framework.base" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.framework.base.A" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.framework.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.framework.base" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.framework.base.Base" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base.a" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.framework.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.framework.base" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.framework.base.Base" />
+      <option name="METHOD_NAME" value="a" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.A" />
+        <item itemvalue="TestNG.Base" />
+        <item itemvalue="TestNG.Base.a" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a11bb94-129a-45eb-ba6e-4e6c1c38a3e7" name="Default Changelist" comment="" />
+      <created>1625705440347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625705440347</updated>
+    </task>
+    <servers />
+  </component>
+</project>
